@@ -1,0 +1,6 @@
+['', '', '', '', 'VALIDA', 'EM', 'TODO', 'O', 'TERRITORIO', 'NACIONAL', '', '', '', 'o', '', '', '', 'REGISTRO', '71,255.269-8', '', '', '', 'DATA', 'DE', '', '', '', 'EXPEDIÇÃO', '', '', '', '19/06/1950', '', '', '', 'NOME', '', '', '', 'IWAZAKI', 'EMRICH', 'ZARZUR', '', '', '', 'HUAÇÃO', '', '', '', 'SAVIETTO', 'ACHADO', 'RIUL', '', '', '', 'YE', 'GROPPO', 'BRANDEL', '', '', '', 'NATURALIDADE', '', '', '', 'DATA', 'DE', 'MASCIMENTO', '', '', '', 'RIO', 'DOCE-MG', '', '', '', '19/07/1959', '', '', '', 'voc', 'orerm', 'C.NAS=124', 'LV=393', 'FL=358', '', '', '', 'SANTA', 'CRUZ', 'DA', 'VITÓRIA-BA', '', '', '', '824.139.582-58', '', '', '', 'PE', '', '', '', 'GOES', 'STAMILLO', 'BALTAZAR', '', '', '', 'NH', '90', '', '', '', 'ASSINATURA', 'DO', 'DIRETOR', '', '', '', '6', 'VIA', '', '', '', 'LEI', 'Nº7', '116', 'DE', '20/08/89']
+Data de expedição do RG: ['19/06/1950']
+{'nome': '', 'rg': '71.255.269-8', 'cpf': '824.139.582-58', 'data de nascimento': '19/07/1959', 'filiacao': '', 'data de expedição do rg': '19/06/1950'}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

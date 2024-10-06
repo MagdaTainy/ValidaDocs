@@ -1,0 +1,6 @@
+['', '', '', '', 'PE', '', '', '', 'SAL', 'IDA', 'EM', 'TODOOT!', '', '', '', 'a', '', '', '', 'IORIO', 'NACIONAL', '', '', '', '[ae]', '', '', '', 'FECISTRO', '', '', '', '30.8', '', '', '', 'DATA', 'DE', '', '', '', '30/11/1974', '', '', '', 'ERAL', '', '', '', 'FEXPECIÇÃO', '', '', '', 'SICHIROLI', 'PFISZTER', 'CAMILLE', '', '', '', 'MAIRA', 'JONNATAN', 'TAKATOSHI', '', '', '', 'YASUTAKE', 'TAGLIACOZZ!', 'MITSUAKI', '', '', '', 'NAT', '', '', '', 'DE', 'MAL', 'CIM!', '', '', '', 'CAMBA', '', '', '', 'IMBARA-PR', '', '', '', '28/12/2043', '', '', '', 'DOC', 'ORIGEM', '', '', '', 'C.NAS=51', 'LV=454', 'FL=69', '', '', '', 'SANTOS-SP', '', '', '', '016.408,144-50', '', '', '', 'NH', '24', '', '', '', 'MAYBI', 'SIDMAR', 'POPIC', '', '', '', '4', 'VIA', '', '', '', 'ASSINA)', 'pothnETOR', '', '', '', 'atoa', '', '', '', 'Ro', '', '', '', 'ER']
+Data de expedição do RG: ['30/11/1974', '28/12/2043']
+{'nome': '', 'rg': '', 'cpf': '016.408.144-50', 'data de nascimento': '28/12/2043', 'filiacao': '', 'data de expedição do rg': '30/11/1974'}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento não válido.

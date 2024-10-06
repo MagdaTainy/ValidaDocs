@@ -1,0 +1,6 @@
+['', '', '', '', 'oO', '', '', '', 'VALIDA', 'EM', 'TODO', 'O', 'TERRITORIO', 'NACIONAL', '', '', '', '[1', '', '', '', 'o', '', '', '', 'DATA', 'DE', '', '', '', '12/06/1950', '', '', '', 'REGISTRO', '54,401.309-8', '', '', '', 'EXPEDIÇÃO', '', '', '', '"CORTAZZO', 'PORTES', 'PETRAZZINI', '', '', '', "'VOÊROES", 'IEHUDA', 'SOMOLANJI', '', '', '', 'LIPPARELLI', 'FERRACIOLI', 'MAZZEU', '', '', '', 'NATUR', '', '', '', 'UI,', '', '', '', '|', '', '', '', 'DF', '', '', '', '1607/1965"', '', '', '', 'C.NAS=403', 'LV=45', 'FL=193', '', '', '', '1H', 'BA:', '', '', '', '[(<]', '', '', '', '077.319.388-08', '', '', '', 'NH', '12', '', '', '', 'LICATTI', 'OLAVIO', 'ALVIM', '', '', '', 'ASSINATURA', 'DO', 'DIRETOR', '', '', '', 'TVIA', '', '', '', '*)', '', '', '', 'LET', 'NOT', 'A', '', '', '', 'DE', '29/08/83']
+Data de expedição do RG: []
+{'nome': '', 'rg': '54.401.309-8', 'cpf': ['077.319.388-08'], 'data de nascimento': '', 'filiacao': '', 'data de expedição do rg': []}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

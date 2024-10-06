@@ -1,0 +1,6 @@
+['', '', '', '', 'VÁLIDA', 'EM', 'TODO', 'O', 'TERRITÓRIO', 'NACIONAL', '', '', '', 'recistao', '28.321.208-1', '', '', '', 'DATA', 'DE', '', '', '', '15/11/2010', '', '', '', 'GERA:', '', '', '', 'EXP', '', '', '', 'E', '', '', '', 'HIME', 'SYLVESTRE', 'EIRYO', '', '', '', '-', '', '', '', 'MELO', '', '', '', 'FILIAÇÃO', '', '', '', 'STUHLBERGER', 'DOY', 'MIRAS', '', '', '', 'STUTZ', 'FURIA', 'VIN', '', '', '', 'NATURALIDADE', '', '', '', '147A', 'DE', 'NASCIMENTO', '', '', '', 'BARRINHA-SP', '', '', '', '17/02/1878', '', '', '', 'DOC', 'ORIGEM', '', '', '', 'C.NAS=9', 'LV=41', 'FL=121', '', '', '', 'MT', '', '', '', '184,843.,419-76', '', '', '', 'CONFORTIN!', 'IMOCHUKI', 'FAUSTINI', '', '', '', 'NH', '13', '', '', '', 'ASSINATURÁ', 'DO', 'Di', '', '', '', '6', 'VIA', '', '', '', 'o', '', '', '', 'Cc', '', '', '', 'o', '', '', '', 'o']
+Data de expedição do RG: ['15/11/2010']
+{'nome': '', 'rg': '28.321.208-1', 'cpf': [], 'data de nascimento': '17/02/1878', 'filiacao': ['STUHLBERGER', 'DOY', 'MIRAS', 'STUTZ', 'FURIA', 'VIN'], 'data de expedição do rg': ['15/11/2010']}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

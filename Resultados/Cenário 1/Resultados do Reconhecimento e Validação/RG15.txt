@@ -1,0 +1,6 @@
+['', '', '', '', 'VÁLIDA', 'EM', 'TODO', 'O', 'TERFAITÓRIO', 'NACIONAL', '', '', '', 'eso', '', '', '', '51.478.882-3', '', '', '', 'DATA', 'DE', '', '', '', 'FEXPEDIÇAC', '', '', '', '23/0311987', '', '', '', 'na', '', '', '', 'nose', '', '', '', 'SPECIAN', 'SUGUINO', 'SUKADOLNIK', '', '', '', 'FRIAÇÃO', '', '', '', 'YUUMA', 'OYAGAWA', 'CARLIS', '', '', '', 'CHIEREGATTI', 'TEJADA', 'JULIETH', '', '', '', 'NATURALIDADE', '', '', '', 'DATA', 'DE', 'NASCIMER', 'Ti', '', '', '', 'IVAI-PR', '', '', '', '08/12/1994', '', '', '', 'voc', 'oucem', 'C.NAS=444', 'LV=106', 'FL=6', '', '', '', 'BARROSO-MG', '', '', '', 'cer', '961.397', '194-70', '', '', '', 'DAIANA', 'SHUGASTRU', 'NAKAHARA', '', '', '', 'NH', '55', '', '', '', '4VIA', '', '', '', 'LEI', 'Nº?', 'UE', 'DE', '29/08/83', '', '', '', '—', '—', '—']
+Data de expedição do RG: ['08/12/1994']
+{'nome': '', 'rg': '51.478.882-3', 'cpf': [], 'data de nascimento': None, 'filiacao': '', 'data de expedição do rg': ['08/12/1994']}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

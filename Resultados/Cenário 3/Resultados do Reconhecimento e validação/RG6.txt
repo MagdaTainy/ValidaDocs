@@ -1,0 +1,6 @@
+['', '', '', '', '——n—', '———.', '', '', '', '-', '', '', '', 'rm———', '', '', '', '-', '', '', '', 'VÁLIDA', 'EM', 'TODO', 'O', 'TERRITÓRIO', 'NACIONAL', '', '', '', 'REGISTRO', '', '', '', '33.744.259-9', '', '', '', 'DATA', 'DE', '', '', '', 'EXPEDIÇÃO', '', '', '', '09/05/2019', '', '', '', 'NOME', '', '', '', 'MENEGOTTO', 'SHISHIBA', 'PENEL', '', '', '', 'FILIAÇÃO', '', '', '', 'GIRALDELLI', 'LASALVIA', '', '', '', 'LOSCO', 'BRAJATO', 'BA', '', '', '', 'NATURALIDADE', '', '', '', 'DATA', 'DE', 'NASCIMENTO', '', '', '', 'LAPA-PR', '', '', '', '14/08/1994', '', '', '', 'DOC', 'ORIGEM', '', '', '', 'CcMC=', 'DIVINÓPOLIS-MG', 'SEDE', '', '', '', 'C.NAS=4', 'LV=83', 'FL=341', '', '', '', 'cer', '', '', '', 'i', 'NELO', 'AKIVÚUKI', 'CHICONELLI', '', '', '', 'ANANÁS-TO', '', '', '', 'ASSINATURA', 'DO', 'DIRETOR', '', '', '', 'LEIN', 'T116DE', '29/08/83']
+Data de expedição do RG: ['09/05/2019']
+{'nome': ['MENEGOTTO', 'SHISHIBA', 'PENEL'], 'rg': '33.744.259-9', 'cpf': '', 'data de nascimento': '14/08/1994', 'filiacao': ['GIRALDELLI', 'LASALVIA', 'LOSCO', 'BRAJATO', 'BA'], 'data de expedição do rg': '09/05/2019'}
+Não foi possível extrair o valor 'cpf'.
+Existem dados não extraídos.
+Documento válido.

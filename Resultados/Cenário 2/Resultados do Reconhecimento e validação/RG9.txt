@@ -1,0 +1,6 @@
+['', '', '', '', 'VÁLIDA', 'EM', 'TODO', 'O', 'TERRITÓRIO', 'NACIONAL', '', '', '', '«enstao', '35.279.520-7', '', '', '', 'ATA', 'OE', '', '', '', '17/02/1998', '', '', '', 'RA', '', '', '', 'E', 'XPEDIÇASL', '', '', '', 'MIQUELIN', 'DALINE', 'KA', '', '', '', 'REMIAO', 'BUNCANA', 'VOLIA', '', '', '', 'KORITAR', 'JE', 'CARAVANA', '', '', '', 'MANACAPURU-AM', '', '', '', '05/03/2000', '', '', '', 'C.NAS=324', 'LV=', '338', 'FL=173', '', '', '', 'MUTUÍPE-BA', '', '', '', '952.483.898-28', '', '', '', 'NH', 'OS', '', '', '', 'ARYANE', 'ZUNIGA', 'ADIEL', '', '', '', 'ASSINATUI', '', '', '', 'DO', 'DIHETOR', '', '', '', '5VIA', '', '', '', 'oO', '', '', '', 'EIN', '7.196', 'DÊ', '29/08/83', '', '', '', 'idtalaicadraais', '', '', '', 'oO', '', '', '', '[6]', '', '', '', '==']
+Data de expedição do RG: ['17/02/1998', '05/03/2000']
+{'nome': '', 'rg': '35.279.520-7', 'cpf': ['952.483.898-28'], 'data de nascimento': '05/03/2000', 'filiacao': '', 'data de expedição do rg': ['17/02/1998', '05/03/2000']}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

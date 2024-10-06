@@ -1,0 +1,6 @@
+['', '', '', '', 'VÁLIDA', 'EM', 'TODO', 'O', 'TERRITÓRIO', 'NACIONAL', '', '', '', '-', '', '', '', 'DATA', 'DE', '', '', '', '13/01/1992', '', '', '', 'REGISTRO', '23', '063.956-2', '', '', '', 'EXPEDIÇÃO', '', '', '', 'NOME', '', '', '', 'AVILLA', 'DEZIDERIO', 'JAIANA', '', '', '', 'FILIAÇÃO', '', '', '', 'DATI', 'SPERANDIO', 'KUROTORI', '', '', '', 'CATAO', 'LORINE', 'ANFE', '', '', '', 'NATURALIDADE', '', '', '', 'DATA', 'DE', 'NASCIMENTO', '', '', '', 'SÃO', 'VALENTIM', 'DO', 'SUL-RS', '', '', '', '03/09/1990', '', '', '', 'voc', 'orem', 'C.NAS=329', 'LV=190', 'FL=16', '', '', '', 'NOVA', 'REDENÇÃO-BA', '', '', '', 'v', '', '', '', 'cer', '500.628.138-38', '', '', '', 'SENTON', 'TADAFUMI', 'POLES!', '', '', '', 'NA!', '', '', '', 'DO', '', '', '', 'OR', '', '', '', '3', 'VIA', '', '', '', 'NH', '38', '', '', '', "LEI'N", '7.', '', '', '', 'DE', '29/08/83', '', '', '', 'PSA']
+Data de expedição do RG: []
+{'nome': ['AVILLA', 'DEZIDERIO', 'JAIANA'], 'rg': '', 'cpf': '500.628.138-38', 'data de nascimento': '03/09/1990', 'filiacao': ['DATI', 'SPERANDIO', 'KUROTORI', 'CATAO', 'LORINE', 'ANFE'], 'data de expedição do rg': '13/01/1992'}
+Não foi possível extrair o valor 'rg'.
+Existem dados não extraídos.
+Documento não válido.

@@ -1,0 +1,6 @@
+['', '', '', '', '[', 'VÁCIDA', 'EM', 'TODO', 'O', 'TERRITÓRIO', 'NACIONAL', '|', '', '', '', '23/02/2003', '', '', '', 'Pee', '', '', '', '73.430.287-3', '', '', '', 'ÉÊune', '', '', '', 'CELISE', 'ANALUCI', 'POLIZ', '', '', '', 'OWA', 'DIAMENT', 'MERLIM', '', '', '', '22/10/1995', '', '', '', 'VIDEIRA-SC', '', '', '', 'GMC=LAMIM-MG', 'SEDE', '', '', '', 'C.NAS=228', 'LV=127', 'FL=450', '', '', '', '431.459.621-08', '', '', '', 'HANNAH', 'VOJVODIC', 'EDLAYNE', '', '', '', 'ALSNDO', '', '', '', 'LEI', 'Nº', '7', '116', 'DE', '29/08/83']
+Data de expedição do RG: ['22/10/1995']
+{'nome': '', 'rg': '73.430.287-3', 'cpf': ['431.459.621-08'], 'data de nascimento': '22/10/1995', 'filiacao': '', 'data de expedição do rg': ['22/10/1995']}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

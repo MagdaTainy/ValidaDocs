@@ -1,0 +1,7 @@
+['', '', '', '', 'NASE-', '', '', '', 'io', 'A', 'o', 'eo', '', '', '', '.e——', '', '', '', 'VALIDA', 'EM', 'TODO', 'O', 'TERRITÓRIO', 'NACIONAL', '', '', '', 'Te', '', '', '', 'DATA', 'OF', '', '', '', '08/07/1965', '', '', '', 'ER', '96.526,607-2', '', '', '', 'EXPEDICÃO', '', '', '', 'NOME', '', '', '', 'XIMENA', 'ALGARVE', 'M', '', '', '', 'HFUAÇÃO', '', '', '', 'ARACKAWA', 'RAYEMBERG', 'LODO', '', '', '', 'NATURALIDADF', '', '', '', 'DATA', 'DE', 'NASCIMENTO', '', '', '', 'DIONÍSIO-MG', '', '', '', '18/01/2015', '', '', '', 'noc', 'orem', 'C.NAS=113', 'LVs272', 'FLEÃ62', '', '', '', 'XAMBIOÁ-TO', '', '', '', 'cer', '549613.502-81', '', '', '', '11702/3367', '', '', '', 'ASTRAL', 'PINEZA', 'POLEZCU', '', '', '', 'NH', '46', '', '', '', 'ASSINATURA', 'DO', 'DIE', 'TOR', '', '', '', '8', 'VIA', '', '', '', 'LEI', 'Nº', '7116', 'DE', '29/08/83', '', '', '', 'ms', '', '', '', '"a', '', '', '', 'AVATAR,', 'FAS']
+Data de expedição do RG: []
+{'nome': '', 'rg': '96.526.607-2', 'cpf': '549.613.502-81', 'data de nascimento': '18/01/2015', 'filiacao': '', 'data de expedição do rg': '08/07/1965'}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.
+​

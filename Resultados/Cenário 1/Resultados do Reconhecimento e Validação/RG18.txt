@@ -1,0 +1,6 @@
+['', '', '', '', 'VALIDA', 'EM', 'TODO', 'O', 'TERRITORIO', 'NACIONAL', '', '', '', 'nEGIIRO', '07,724,333-5', '', '', '', 'DATA', 'DE', '', '', '', 'EXPEDIÇÃO', '', '', '', '25/07/1960', '', '', '', 'NOMI', '', '', '', 'VERMEULEN', 'AMANDIO', 'ARAL!', '', '', '', 'HUAÇÃO', '', '', '', 'CESTAROLLI!', 'MILHOMENS', 'CASE', '', '', '', 'VALIM', 'VALES', 'CALEGARI', '', '', '', 'NATURALIDAL]', '', '', '', 'IRAPUA-SP', '', '', '', 'DATA', 'DE', 'NASCIMENTO', '', '', '', '15/09', '', '', '', 'EE)', '', '', '', 'GOIANÁPOLIS-GO', '', '', '', 'x', 'omeem', 'C.ANASS43', 'LV=197', 'FL=102', '', '', '', 'cp)', '', '', '', '644.746.621-13', '', '', '', 'NH', '24', '', '', '', 'CARAMALAC', 'REBELLO', 'BONGIOV', '', '', '', 'ASSINATURA', 'DO', 'DIRETOR', '', '', '', 'G', 'VIA', '', '', '', 'a', 'o', '', '', '', 'JL', 'EINNS7116DE', '29/08/85', '', '', '', '——']
+Data de expedição do RG: ['25/07/1960']
+{'nome': '', 'rg': '07.724.333-5', 'cpf': ['644.746.621-13'], 'data de nascimento': None, 'filiacao': '', 'data de expedição do rg': ['25/07/1960']}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

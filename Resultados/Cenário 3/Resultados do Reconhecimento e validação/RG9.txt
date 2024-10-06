@@ -1,0 +1,6 @@
+['', '', '', '', '[', 'vALIDA', 'EM', 'TODO', 'O', 'TERAITÔRIO', 'NACIONAL', '"', '', '', '', '"', '', '', '', '”', '', '', '', 'a', '', '', '', '1', '33.075.173-6', '', '', '', ',', '93/03/2000', '', '', '', 'VACCARI', 'RIGOGLIO', 'CESCHIN', '', '', '', 'GHINI', 'COLBO', 'LAVORINI', '', '', '', 'ZELANTE', 'GRIMA', 'TÃO', '', '', '', "'", '', '', '', 'IMARUÍ-SC', '', '', '', '30/03/1667', '', '', '', 'C.NAS=451', 'LV=85', 'FL=431', '', '', '', 'MAJOR', 'ISIDORO-AL', '', '', '', '380.233.135-41', '', '', '', 'MODESTIA', 'GANDELMAN', 'MARCHMESONI', '', '', '', 'NH', '58', '', '', '', 'ASGINAT', '', '', '', 'DO', 'DBRETOR', '', '', '', 'SVIA', '', '', '', 'DE', '290683', '', '', '', 'OTTO', 'AAA', '', '', '', 'o']
+Data de expedição do RG: ['93/03/2000', '30/03/1667']
+{'nome': '', 'rg': '33.075.173-6', 'cpf': '380.233.135-41', 'data de nascimento': '30/03/1667', 'filiacao': '', 'data de expedição do rg': '93/03/2000'}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

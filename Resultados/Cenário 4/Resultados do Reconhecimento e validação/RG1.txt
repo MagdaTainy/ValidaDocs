@@ -1,0 +1,6 @@
+['', '', '', '', 'Vau.DAa', 'EM', 'TODO', 'O', 'TERRITORIO', 'NACIONAL', '', '', '', '9.814.537-2', '', '', '', '11959', '', '', '', 'BIANCA', 'VALEJO', 'PLOTEGHER', '', '', '', 'KOPTE', 'MASSETTO', 'BARACHATI', '', '', '', 'LEPOS', 'CAMPOS', 'SCOTTON', '', '', '', '01/11/1964', '', '', '', 'GONÇALVES', 'DIAS-MA', '', '', '', 'C.NAS=368', 'LV=275', 'FL=223', '', '', '', 'FERREIRA', 'GOMES-AP', '', '', '', '943.070.920-82', '', '', '', 'NH73', '', '', '', 'ESPEDITO', 'THENILE', 'HILSDORF', '', '', '', '2VIA', '', '', '', 'ASSINATURA', 'DO', 'DIRETOR', '', '', '', 'LEINS7', '1?', '', '', '', 'E', '29/08/83']
+Data de expedição do RG: ['01/11/1964']
+{'nome': '', 'rg': '', 'cpf': '943.070.920-82', 'data de nascimento': '', 'filiacao': '', 'data de expedição do rg': ''}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento não válido.

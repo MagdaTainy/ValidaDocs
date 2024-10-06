@@ -1,0 +1,6 @@
+['', '', '', '', 'agem', 'ti', '-', 'DD-—>2ºS!ã%Õ)0', '0mms', 'o]2=2:““6éÉ', 'oa', '', '', '', 'NAUDA', 'EMTODO', 'U', '“ARAL', '', '', '', 'AQ', 'NAL', 'UNA,', '', '', '', 'eeoemo', '01,085.034-1', '', '', '', 'Pere', '', '', '', 'vVAta', 'DE', '', '', '', '15/13/2005', '', '', '', 'ARAM', 'BOCCHI', 'BRAVALHERS', '', '', '', 'DAMOTA', '', '', '', 'FESTUCCI', 'TURRIN', 'GUAIATI', '', '', '', 'ELLA', 'OKIISHI', 'GRADNAUER', '', '', '', 'NATAN', 'DATA', '', '', '', 'CATA', 'DE', 'NASCAMNTO', '', '', '', '16/06/1954', '', '', '', 'BOM', 'REPOUSO-MG', '', '', '', 'C.NAS=429', '1', 'V=325', 'FLu62', '', '', '', 'Dec', 'amora', '', '', '', 'MÁRIO', 'CAMPOS-MG', '', '', '', '663.814.200-30', '', '', '', 'om', '', '', '', 'TSUYOSHI', 'KUCHKARIAN', 'HIROTA', '', '', '', 'NHAO', '', '', '', 'Assam', '', '', '', '4V1A', '', '', '', 'ST', '', '', '', 'JR:', '', '', '', 'Er']
+Data de expedição do RG: ['15/13/2005', '16/06/1954']
+{'nome': '', 'rg': '01.085.034-1', 'cpf': ['663.814.200-30'], 'data de nascimento': '16/06/1954', 'filiacao': '', 'data de expedição do rg': ['15/13/2005', '16/06/1954']}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

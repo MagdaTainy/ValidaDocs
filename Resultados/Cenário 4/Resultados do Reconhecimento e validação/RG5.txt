@@ -1,0 +1,7 @@
+['', '', '', '', 'AL', 'CAL', '', '', '', 'vu', 'TESP', '', '', '', 'Ms', 'NACIONAL', '', '', '', 'Sena', '—', '95.934,.724-0', '', '', '', 'EXPEDIÇAÃO', '', '', '', 'ATA', 'DE', '', '', '', '12/01/1959', '', '', '', 'CNE', '', '', '', 'CHINALLI', 'GONI', 'KOYAMA', '', '', '', 'ala', '', '', '', 'GUARIENTE', 'SMIDT', 'VIAN', '', '', '', 'SAWAMURA', 'POLEN', 'YAMASHITAFUJ', '', '', '', 'naTA', '', '', '', 'Na', '', '', '', 'Há,', 'DAT', '', '', '', '*', '', '', '', 'SoMEN', '', '', '', 'o', '', '', '', 'CIANORTE-PR', '', '', '', '18/08/1972', '', '', '', 'Do:', 'caem', 'C.NAS=27', 'LV=479', 'FL=471', '', '', '', 'TEODORO', 'SAMPAIO-BA', '', '', '', '-', '', '', '', 'C', '', '', '', '370.671.685-20', '', '', '', 'BOA', 'ESPERANÇA-MG', '', '', '', 'NU', 'O', 'aa', '', '', '', 'pes', '', '', '', 'aTURA', '', '', '', 'DIRETOR', '', '', '', '3', 'VIA', '', '', '', '1ENNOTIIB', '', '', '', '28/08/83']
+Data de expedição do RG: ['12/01/1959', '18/08/1972']
+{'nome': '', 'rg': '95.934.724-0', 'cpf': '370.671.685-20', 'data de nascimento': '18/08/1972', 'filiacao': '', 'data de expedição do rg': '12/01/1959'}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.
+​

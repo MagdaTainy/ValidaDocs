@@ -1,0 +1,6 @@
+['', '', '', '', 'VÁLIDA', 'EM', 'TODO', 'O', 'TERRITÓRIO', 'NACIONAL', '', '', '', 'HELISTRO', '', '', '', '32.058.076-3', '', '', '', 'DATA', 'DE', '', '', '', '14/06/2003', '', '', '', 'GERAL', '', '', '', 'EXPEDICÁO', '', '', '', 'VICENTINI', 'BAQUEIRO', 'CAPUCCI', '', '', '', '“Lilia', '', '', '', 'FILIAÇÃO', '', '', '', 'RISSATO', 'CHLOE', 'PRESOTTO', '', '', '', 'VAHL', 'NUBIA', 'VIRECOULON', '', '', '', 'NATURAL', 'DADE', '', '', '', 'DATA', 'DE', 'NASCIMENTO', '', '', '', 'MARAVILHAS-MG', '', '', '', '02/11/1997', '', '', '', 'C.NAS=67', 'LV=267', 'FL=13', '', '', '', 'DOC', 'ORIGEM', '', '', '', 'IBIRACATU-MG', '', '', '', '958.640.,491-61', '', '', '', 'CPF', '', '', '', 'SSD', '', '', '', '”.', '', '', '', 'FLEURY', 'PASCHOALINOTO', 'ZONATTO', '', '', '', 'NH', '93', '', '', '', '1VIA', '', '', '', 'ASSINATURA', 'DO', 'DIHETOR', '', '', '', 'oO', '', '', '', 'x', 'LEINº7116D€', '29/08/03', '|', '', '', '', 'o', '', '', '', 'nao', '', '', '', 'o', '', '', '', '—', '', '', '', '=', '', '', '', 'e', 'e']
+Data de expedição do RG: ['14/06/2003']
+{'nome': '', 'rg': '32.058.076-3', 'cpf': '', 'data de nascimento': '02/11/1997', 'filiacao': '', 'data de expedição do rg': '14/06/2003'}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

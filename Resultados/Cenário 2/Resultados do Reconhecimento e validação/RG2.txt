@@ -1,0 +1,6 @@
+['', '', '', '', '——', '', '', '', 'PRN', '', '', '', 'VÁLIDA', 'EM', 'TODO', 'O', 'TERRITÓRIO', 'NACIONAL', '', '', '', 'REGISTRO', '', '', '', '58.748.379-9', '', '', '', 'DATA', 'DE', '', '', '', '13/08/1978', '', '', '', 'GERAL', '', '', '', 'EXPEI', '', '', '', 'ZORZELLA', 'FORTUNA', 'VIACAVA', '', '', '', '"BELICIA', 'OBREGON', 'CROVADOR', '', '', '', 'LORETTO', 'ERRERA', 'BIAMINO', '', '', '', 'O', 'EATIBE.', 'PR', '', '', '', 'DATA', 'DE', 'NASCIMENTO', '', '', '', '08/02/2006', '', '', '', 'C.NAS=257', 'LV=386', 'FL=203', '', '', '', 'O', 'GIOIANA-PE', '', '', '', '515.280.491-36', '', '', '', 'F', '', '', '', 'FALCIONE', 'PIROJPO', 'DESSIMONE', '', '', '', 'NH76', '', '', '', 'ASTINATURA', 'DO', 'DIRETOR', '', '', '', '2VIA']
+Data de expedição do RG: ['13/08/1978']
+{'nome': '', 'rg': '58.748.379-9', 'cpf': ['515.280.491-36'], 'data de nascimento': '08/02/2006', 'filiacao': '', 'data de expedição do rg': ['13/08/1978']}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

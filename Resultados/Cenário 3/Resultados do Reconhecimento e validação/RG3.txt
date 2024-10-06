@@ -1,0 +1,6 @@
+['', '', '', '', 'VÁLIDA', 'EM', 'TODO', 'O', 'TERRITÓRIO', 'NACIONAL', '', '', '', 'E', 'LHS)', '', '', '', '74.815.821-2', '', '', '', '23/08/1975', '', '', '', 'FRA', '', '', '', 'xe', '', '', '', 'HORIVAL', 'CASSETTARI', 'MARCHESA', '', '', '', 'ALFONSO', 'FACHETTI', 'WESLANIA', '', '', '', 'PANISI', 'FELIZOLA', 'KASHI', '', '', '', 'PINHÃO:SE', '', '', '', '02/1PAbI8', 'Miro', '', '', '', 'C.NAS=119', 'LV=471', 'FL=69', '', '', '', 'GUARULHOS-SP', '', '', '', '257.968.501-48', '', '', '', 'NH', '42', '', '', '', 'LUIRIVAM', 'PEDAO', 'ALANIZ', '', '', '', 'ASSINATURA', 'DO', 'DIHETOR', '', '', '', '4', 'VIA', '', '', '', 'LEIN', '7116', 'DÊ', '20/08/08', '', '', '', 'pela,']
+Data de expedição do RG: ['23/08/1975']
+{'nome': '', 'rg': '74.815.821-2', 'cpf': '257.968.501-48', 'data de nascimento': '', 'filiacao': '', 'data de expedição do rg': ''}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

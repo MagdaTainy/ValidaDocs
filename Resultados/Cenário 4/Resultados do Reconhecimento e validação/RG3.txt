@@ -1,0 +1,6 @@
+['', '', '', '', 'e."', '', '', '', 'VALIDA', 'EM', 'TODO', 'O', 'TERRITORIO', 'NACIONAL', '', '', '', 'aEGISTRO', '', '', '', '95.623.270-6', '', '', '', 'EYPED', 'ÇA', '', '', '', 'DATA', 'DF', '', '', '', '06/12/1957', '', '', '', 'ne', '', '', '', 'HICHI', 'KIRSCHBAUER', 'PICCININ', '', '', '', 'ZUIN', 'SYDNEI', 'LA', '', '', '', 'MENGATTI', 'PETER', '', '', '', 'NATURE', '', '', '', 'DADE', '', '', '', 'DATA', 'DE', 'NASCIMENTO', '', '', '', 'SOLEDADE-PB', '', '', '', '01/02/1950', '', '', '', 'DOC', 'OR', 'CEM', '', '', '', 'C.NAS=469', 'LV=174', 'FL=', '300', '', '', '', 'IPUEIRAS-CE', '', '', '', 'cor', '254,234.382-92', '', '', '', 'ASSINATURA', 'DU', 'DIMETOR', '', '', '', 'LEI', 'Nº', '7716', 'DE', '29/08/83', '', '', '', 'O', 'asa', 'me', 'ar', 'farm', 'STE', '1T6a', '', '', '', 'ra', '', '', '', '-', '', '', '', 'DOR']
+Data de expedição do RG: ['06/12/1957']
+{'nome': '', 'rg': '95.623.270-6', 'cpf': '254.234.382-92', 'data de nascimento': '01/02/1950', 'filiacao': '', 'data de expedição do rg': '06/12/1957'}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

@@ -1,0 +1,6 @@
+['', '', '', '', 'Es', '', '', '', 'LIST', 'Me', 'AAA', 'CAMADA', 'Ce', '', '', '', '..', '', '', '', 'nda', 'Lelta,', '“ol', '', '', '', 'VALIDA', 'EM', '', '', '', 'lb', 'Acdo', 'fa', 'AA', 'aAMLAZAR)', '', '', '', 'OTE', '', '', '', 'O', 'NACIONA|', '', '', '', 'EMESTO', '78,429,870-1', '', '', '', 'Wise...', '08/10/1965', '', '', '', 'OM', '', '', '', 'IORIÁTTI', 'VALESSA', '', '', '', 'FAMÇÃO', '', '', '', 'BURGER', 'BOSQUETTI', 'MATSUZAKA', '', '', '', 'NatURALSADE', '', '', '', 'IATA', 'DE', 'NASCRZEN', '', '', '', '25/02:1962', '', '', '', 'MORRO', 'GRANDE-SC', '', '', '', 'soc', 'orem', 'C.NAS=474', 'LVE60', 'FL=267', '', '', '', 'POM', 'BOSCO-MG', '', '', '', 'cm', '9869.493.001-84', '', '', '', '59358/6173', '', '', '', 'E', 'LU', 'AO', 'Qi', '', '', '', 'Na', '', '', '', 'NH', '41', '', '', '', 'ASSINATURA', 'DO', 'OIAETOR', '', '', '', 'aqu', 'sm', 'narra', 'Agents:', '', '', '', '57/A', '', '', '', '16', 'DE', '29/08/63', '', '', '', 'eo', '', '', '', 'UNA', 'dt', 'o', 'a', 'A', '', '', '', 'WO', 'IO', '', '', '', 'É']
+Data de expedição do RG: ['08/10/1965']
+{'nome': '', 'rg': '78.429.870-1', 'cpf': [], 'data de nascimento': '', 'filiacao': '', 'data de expedição do rg': ['08/10/1965']}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

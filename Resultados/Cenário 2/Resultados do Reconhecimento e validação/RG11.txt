@@ -1,0 +1,6 @@
+['', '', '', '', 'ie', 'RA', '', '', '', 'Lumutaao', 'TNT', '', '', '', 'E.', '', '', '', 'DiStscia', 'nd', '', '', '', 'nã', '', '', '', 'DP', '', '', '', 'VALIDA', 'EM', 'TODO', '', '', '', '1TO', '', '', '', 'ON', '', '', '', 'ON:', '', '', '', 'REGISTA', '92.096.080-7', '', '', '', '22/12/2018', '', '', '', 'A:', '', '', '', 'r', '', '', '', 'TURRIN', 'TRIVELIN', 'MOTA', '', '', '', 'cadiaeeen', 'TOTO', '', '', '', 'CHRISTINI', 'RUSSAR', '|V', '', '', '', 'N', '', '', '', 'RAÇA', '', '', '', 'DATALI', '', '', '', 'NASCIMENTO', '', '', '', '>', '', '', '', '30/05/2018', '', '', '', 'QUISSAMA-RJ', '', '', '', 'C.NAS=10', 'LV=281', 'FL=400', '', '', '', 'DOC', 'OBISEN', '', '', '', 'SETE', 'BARRAS-SP', '', '', '', '>', '', '', '', 'CPF', '', '', '', '806.157.621-07', '', '', '', '36204/21', '97', '', '', '', 'GIRUA-RS', '', '', '', 'FELIZOLA', 'BARBUDO', 'BENEDETI', '', '', '', '“"<\'NH82', '', '', '', 'ASSINATURA', 'DO', 'DIRETOR', '', '', '', '7', 'VIA', '', '', '', 'ão', '', '', '', 'IN97', '116', 'DF', '29/08/83', '', '', '', '[5]', '', '', '', 'E']
+Data de expedição do RG: ['22/12/2018']
+{'nome': '', 'rg': '92.096.080-7', 'cpf': ['806.157.621-07'], 'data de nascimento': '30/05/2018', 'filiacao': '', 'data de expedição do rg': ['22/12/2018']}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

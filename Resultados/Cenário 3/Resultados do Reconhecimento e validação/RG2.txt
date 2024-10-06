@@ -1,0 +1,6 @@
+['', '', '', '', 'a', '', '', '', '[', 'YALIÇA', 'EM', 'TODO', 'O', 'TERRITÓRIO', 'NACIONAL', '', '', '', '"e', '', '', '', '"11.242179-9', '', '', '', '12/09/1961', '', '', '', 'es', '', '', '', 'MANGIALARDO', 'SCIGLIANO', 'BRASIL', '', '', '', 'MONIQUE', 'BURIN', 'FREDY', '', '', '', 'BORELLA', 'BILL', 'ANDRIACA', '', '', '', 'URUÇUCA-BA', '', '', '', '0409/1973', '', '', '', 'ce', 'NAS=161', 'LV=335', 'FL=197', '', '', '', 'POUSO', 'ALTO-NG', '', '', '', '155.370', '2011', '', '', '', 'LUCIMEIA', 'ANARELL', 'KLENDIENST', '', '', '', 'NH68', '', '', '', '00', 'OAETOR', '', '', '', '4VIA', '', '', '', 'TOTO', 'o', 'ROS', '', '', '', 'o', '', '', '', 'es']
+Data de expedição do RG: []
+{'nome': '', 'rg': '11.242.179-9', 'cpf': '', 'data de nascimento': '', 'filiacao': '', 'data de expedição do rg': ''}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

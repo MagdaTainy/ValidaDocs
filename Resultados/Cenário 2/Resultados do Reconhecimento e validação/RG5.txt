@@ -1,0 +1,6 @@
+['', '', '', '', 'o', '', '', '', 'VÁLIDA', 'EM', 'TODO', 'O', 'TERRITÓRIO', 'NACIONAL', '', '', '', 'o', '', '', '', '27.274.561-3', '', '', '', ':', '21/06/1986', '', '', '', 'TALISSA', 'DAOLIO', 'MICHELETTI', '', '', '', 'FREITAS', '', '', '', 'CHAIB', 'MIASATO', 'HATORI', '', '', '', 'JORGETTO', 'PARENTE', 'NATANIA', '', '', '', 'ÂNGULO-PR', '', '', '', '11/08/2005', '', '', '', '”', '', '', '', '.,', 'C-NAS=274', 'LV=252', 'FL=248', '', '', '', 'MAUÉS-AM', '', '', '', '718.724.704-40', '', '', '', 'FOINA', 'IRWING', 'WEEGE', '', '', '', 'NHT75', '', '', '', 'ASSINATURA', 'DO', 'DIRETOR', '', '', '', '2VIA', '', '', '', 'o', '', '', '', 'oO', '', '', '', '=)', '', '', '', 'o', '', '', '', 'o', '', '', '', '[LEINº7', '118', 'DE', '290883', 'À']
+Data de expedição do RG: ['21/06/1986', '11/08/2005']
+{'nome': '', 'rg': '27.274.561-3', 'cpf': ['718.724.704-40'], 'data de nascimento': '11/08/2005', 'filiacao': '', 'data de expedição do rg': ['21/06/1986', '11/08/2005']}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

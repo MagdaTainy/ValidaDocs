@@ -1,0 +1,6 @@
+['', '', '', '', '-——', '', '', '', 'ea', 'OO', '', '', '', 'YALIDCA', 'EM', 'TODO', 'O', 'TERRITORIO', 'NACIONAL', '', '', '', 'SER', 'RO', '', '', '', '80.676.104-0', '', '', '', 'EXRÊDICAO', '29/02/2016', '', '', '', 'NOME', '', '', '', 'THEODORE', 'JACOM', 'SUZUMURA', '', '', '', 'NOVAES', '', '', '', '-', '', '', '', '—', '', '', '', 'A', '', '', '', 'AÇÃO', '', '', '', 'BERGAMASCHI', 'KHOURY', 'COPELLO', '', '', '', 'BOLLAND', 'VIRIATO', 'VAILATI', '', '', '', '147', 'PRA', 'DADE', '', '', '', 'DATA', 'DE', 'NASCIMENTO', '', '', '', 'SANANDUVA-RS', '', '', '', '28/03/1992', '', '', '', 'À', '', '', '', 'Dec', 'arRermM', 'C', 'NAS=30', 'LV=92', 'FL=227', '', '', '', 'ss', '', '', '', 'NOVA', 'MÓDICA-MG', '', '', '', 'cs', '612.361.711-79', '', '', '', 'SANANDUVA-RS', '', '', '', 'NH', '54', '', '', '', 'ASUNAVORA', '15', 'Bifitas.', '', '', '', '3', 'VIA', '', '', '', 'LEI', 'Nº97', '16', 'DE', '29/08/83', '', '', '', '—', '', '', '', 'o', '', '', '', 'o', 'AO', 'ra']
+Data de expedição do RG: ['29/02/2016']
+{'nome': '', 'rg': '80.676.104-0', 'cpf': ['612.361.711-79'], 'data de nascimento': '28/03/1992', 'filiacao': '', 'data de expedição do rg': ['29/02/2016']}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

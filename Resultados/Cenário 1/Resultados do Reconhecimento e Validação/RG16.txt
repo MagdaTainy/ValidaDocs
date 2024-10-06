@@ -1,0 +1,6 @@
+['', '', '', '', 'DA', '', '', '', '*', '', '', '', 'VALIDA', 'EM', 'TODO', 'O', 'TERRITORIO', 'NACIONAL', '', '', '', 'DATA', 'DP', '', '', '', 'mEGISTRO', '83.824.427-0', '', '', '', 'Ex', '', '', '', 'o', '22/03/1953', '', '', '', 'NOME', '', '', '', 'DUBINSKAS', 'GASPARELO', 'FELPOLDI', '', '', '', 'HUAÇÃo', '', '', '', 'SACCHETTI', 'JONATHAS', 'PIAZON', '', '', '', 'NAZARIO', 'SENEME', 'EMY', '', '', '', 'k', '', '', '', '..', '', '', '', 'NATURALIDADE', '', '', '', 'DATA', 'DE', 'NASCIMENTO', '', '', '', 'TARUMÃ-SP', '', '', '', '04/03/1980', '', '', '', 'DOU', 'ORIGEM', '', '', '', 'C.NAS=44', 'LV=464', 'FL=196', '', '', '', 'TABATINGA-SP', '', '', '', 'cer', '4973.987.956-00', '', '', '', 'MINAMI', 'MONTEBELLI', 'ASTOLPHO', '', '', '', 'NH', '27', '', '', '', 'DO', 'BÍRETOR', '', '', '', '4VIA', '', '', '', 'LEI', 'Ne?', 'Ft', '', '', '', 'E', '20/06/83']
+Data de expedição do RG: ['22/03/1953']
+{'nome': '', 'rg': '83.824.427-0', 'cpf': [], 'data de nascimento': '04/03/1980', 'filiacao': '', 'data de expedição do rg': ['22/03/1953']}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

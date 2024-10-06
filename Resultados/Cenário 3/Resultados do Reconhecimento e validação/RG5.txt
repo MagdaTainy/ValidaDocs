@@ -1,0 +1,6 @@
+['', '', '', '', 'VÁLIDA', 'EM', 'TODO', 'O', 'TERRITÓRIO', 'NACIONAL', '', '', '', 'INNSTADA', '', '', '', '86.214.868-6', '', '', '', '"', '', '', '', '18/11/1952', '', '', '', 'Eta', '', '', '', 'nego', '', '', '', 'ÉLON', 'MARINELI!', 'KAWAZOE', '', '', '', 'FRACALOSSI', 'RYOJI', 'WEIZENMANN', '', '', '', 'DOTTAVIANO', 'NARIMA', 'HAR', '', '', '', 'JURUTI-PA', '', '', '', '21/68)1958"', 'IMENTO', '', '', '', 'C.NAS=376', 'LV=123', 'FL=80', '', '', '', 'MATOZINHOS-MG', '', '', '', '461.346.008-57', '', '', '', 'NH', '68', '', '', '', 'VRECHI', 'CLARISSE', 'MUZOLON', '', '', '', 'DO', 'DIHETOR', '', '', '', '7', 'VIA', '', '', '', 'o', '', '', '', 'oO', '', '', '', 'o']
+Data de expedição do RG: ['18/11/1952']
+{'nome': '', 'rg': '86.214.868-6', 'cpf': '461.346.008-57', 'data de nascimento': '', 'filiacao': '', 'data de expedição do rg': ''}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

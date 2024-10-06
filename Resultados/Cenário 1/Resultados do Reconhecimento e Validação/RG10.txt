@@ -1,0 +1,6 @@
+['', '', '', '', 'VAL:DA', 'EM', 'TODO', 'O', 'TERRITORIO', 'NACIONAL', '', '', '', 'REGISTRO', '', '', '', 'DATA', 'DE', '', '', '', 'GERAL', '', '', '', '66.142.308-6', '', '', '', 'EXPEDIÇA!', '', '', '', 'o', '21/02/1973', '', '', '', 'NOME', '', '', '', 'NIVALDO', 'MARTIGNONI', 'FACANHA', '', '', '', 'FIMAÇÃO', '', '', '', 'BOUSKELA', 'GHELLERE', 'BICALHO', '', '', '', 'VIANI', 'BONATTI', 'NAMI', '', '', '', 'NATURALIDADE', '', '', '', 'DATA', 'DE', 'NASCIMENTO', '', '', '', 'APARECIDA-SP', '', '', '', '27/09/1995', '', '', '', '[>', '', '', '', 'DOC', "or'reM", '(2', 'NAS=262', 'LV=389', 'FL=149', '', '', '', 'ALTAMIRA-PA', '', '', '', 'CPF', '', '', '', 'NH', '35', '', '', '', 'ASSINATUHA', 'DO', 'inse', 'TOR', '', '', '', '7', 'VIA', '', '', '', 'Q', '', '', '', 'f"', '6DE', '', '', '', 'ET', 'N£E?', '11', '', '', '', 'im', '', '', '', 'SIVDO/OS', '', '', '', 'o', '', '', '', '(=)', '', '', '', 'Nuas', '', '', '', '—-', '', '', '', '.—', '', '', '', 'CANA', '', '', '', 'eee']
+Data de expedição do RG: ['21/02/1973']
+{'nome': '', 'rg': '66.142.308-6', 'cpf': [], 'data de nascimento': '27/09/1995', 'filiacao': '', 'data de expedição do rg': ['21/02/1973']}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

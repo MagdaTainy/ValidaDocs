@@ -1,0 +1,6 @@
+['', '', '', '', '—', '', '', '', '—', '', '', '', 'VALIDA', 'EM', 'TODO', 'O', 'TERRITORIO', 'NACIONAL', '', '', '', '23.707.625-1', '', '', '', 'DATA', 'DE.', '', '', '', '22/11/1953', '', '', '', 'REGISTRO', '', '', '', '.', '-', 'LUDVIGER', 'ZENARO', 'ROSE', ';', '', '', '', 'FILIAÇÃO', '', '', '', 'BERTALAN', 'DELBELL', '', '', '', 'BOMBONATO', 'CALEBE', 'Di', '', '', '', 'NATURALIDADE', '', '', '', 'DATA', 'DE', 'NASCIMENTO', '', '', '', 'JEQUIE-BA', '', '', '', '02/11/1982', '', '', '', 'DOC', 'ORIGEM', '', '', '', 'CMC=JACINTO-MG', 'SEDE', '', '', '', ',', '', '', '', 'C.NAS=89', 'LV=80', 'FL=36', '', '', '', 'cer', '', '', '', 'MORON', 'TSU', 'MERETTI', '', '', '', 'JUPI-PE', '', '', '', 'ASSINATURA', 'DO', 'DIRETOR', '', '', '', 'LEI', 'Nº', '7', '116', 'DE', '29/08/83']
+Data de expedição do RG: ['22/11/1953']
+{'nome': '', 'rg': '23.707.625-1', 'cpf': [], 'data de nascimento': '02/11/1982', 'filiacao': ['BERTALAN', 'DELBELL', 'BOMBONATO', 'CALEBE', 'Di'], 'data de expedição do rg': ['22/11/1953']}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

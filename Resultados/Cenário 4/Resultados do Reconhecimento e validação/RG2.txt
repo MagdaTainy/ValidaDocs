@@ -1,0 +1,6 @@
+['', '', '', '', 'oO', '', '', '', 'fase)', '', '', '', 'o', '', '', '', 'o', '', '', '', '28/01/1999', '', '', '', 'neesra,', '99.971.459-4', '', '', '', 'FERA,', '', '', '', 'UMA', 'DE', '', '', '', 'FxPEGICÃO,', '', '', '', 'NOTARI', 'PAROLI', 'DELAPRIA', '', '', '', 'MANAÁRIM', 'GRAZIELE', 'DELLATORRE', '', '', '', 'BERNADETE', 'ERMIRIO', 'SANTIL!I', '', '', '', 'BÔOMEBINHAS-SC', '', '', '', '18/4864', 'So', '', '', '', 'C.NAS=170', 'LV=117', 'FL=183', '', '', '', 'CORONEL', 'MACEDO-SP', '', '', '', '077.003.408-03', '', '', '', '57679/3393', '', '', '', 'cer', '', '', '', 'BRIZENO', 'FABRICIO', 'MoNico', '', '', '', 'S', 'VIA', '', '', '', 'NH', '04', '', '', '', 'ASSINATURA', 'DO', 'DIRETOR', '', '', '', 'fa', '', '', '', 'o', '', '', '', 'oO', '', '', '', 'O', '', '', '', 'o']
+Data de expedição do RG: []
+{'nome': '', 'rg': '99.971.459-4', 'cpf': '077.003.408-03', 'data de nascimento': '', 'filiacao': '', 'data de expedição do rg': ''}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

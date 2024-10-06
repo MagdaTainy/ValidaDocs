@@ -1,0 +1,6 @@
+['', '', '', '', 'o', '', '', '', '"', '', '', '', 'a', 'MC', 'OL', 'TERROR', 'NACIONAL', '', '', '', '7', '', '', '', '"es', '', '', '', 'PAN', '', '', '', '"aro', '', '', '', 'Wes', '', '', '', 'NOTAGOAIAS', '', '', '', 'A', '', '', '', 'Ai', '', '', '', 'RE', '', '', '', 'ALUN', '', '', '', 'PP', '', '', '', 'IPPAR', 'LO:', '', '', '', '[MSSTRELNINAIS|', '', '', '', '“', '', '', '', 'não', '', '', '', 'uu', '', '', '', '",s', '', '', '', 'ITA', '', '', '', "'", '', '', '', '1', '', '', '', "'", '', '', '', "'", '', '', '', 'e', '', '', '', 'NA:', '', '', '', 'ERR', '', '', '', 'PoRETIANPÇOAO', '', '', '', 'MIA', '', '', '', 'í', '', '', '', 'PA', '', '', '', 'ces', '', '', '', '”', '', '', '', '"', '', '', '', 'nos', '', '', '', 'uso', '', '', '', 'ama?', 'AA', 'DO', 'DA', 'TOR', '', '', '', 'VIA', '', '', '', 'NOT']
+Data de expedição do RG: []
+{'nome': '', 'rg': None, 'cpf': [], 'data de nascimento': None, 'filiacao': '', 'data de expedição do rg': []}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento não válido.
