@@ -1,0 +1,6 @@
+['', '', '', '', '%', '', '', '', 'VALIDA', 'EM', 'TODO', 'O', 'TERAITORIO', 'NACIONAL', '', '', '', 'mcisTAO', '51.665,564-4', '', '', '', 'Ao', '26/03/2002', '', '', '', 'NOM', '', '', '', 'MALGUEIRO', 'GIUSEPIN', 'PANNUTI', '', '', '', 'HUAÇÃO', '', '', '', 'BISCAIA', 'VITAL!', 'PENNA', '', '', '', 'CAMANZANO', 'CARELLI', 'KIYAN', '', '', '', 'ts', '', '', '', 'NATURALIDADE', '', '', '', 'DATA', 'DE', 'NASCIMENTO', '', '', '', 'e.', '', '', '', '21/03/1956', '', '', '', 'ANTÔNIO', 'JOÃO-MS', '', '', '', 'C.NAS=3451/V=82', 'FL=101', '', '', '', 'DOC', 'ORIGEM', '', '', '', 'LAMIM-MG', '', '', '', 'cm', '579', '588.203-80', '', '', '', 'HORIGOSHI', 'SUEKICHI', 'MASTRONARDI', '', '', '', 'DO', 'DÁRE', 'TOR', '', '', '', '9VIA', '', '', '', 'NH55', '', '', '', 'o', '', '', '', '1EIN*7?', '', '', '', 'TIBDE', 'LADOS', '', '', '', 'iq']
+Data de expedição do RG: ['26/03/2002']
+{'nome': '', 'rg': '51.665.564-4', 'cpf': [], 'data de nascimento': '21/03/1956', 'filiacao': '', 'data de expedição do rg': ['26/03/2002']}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

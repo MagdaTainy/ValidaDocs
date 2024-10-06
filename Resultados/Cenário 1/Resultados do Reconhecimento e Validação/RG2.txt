@@ -1,0 +1,4 @@
+{'nome': '', 'rg': '51.718.343-2', 'cpf': '290.505.938-95', 'data de nascimento': '', 'filiacao': '', 'data de expedição do rg': ''}
+Não foi possível obter os dados: nome, data de nascimento, filiacao, data de expedição do rg.
+Documento válido.
+

@@ -1,0 +1,6 @@
+['', '', '', '', 'VAUA', 'EM', 'TOLO', 'OU', 'TERRITORIO', 'NACIONAL', '', '', '', 'DATA', 'DE', '', '', '', '17/03/1977', '', '', '', '—', '21.927.929-9', '', '', '', 'EXPEDICAO', '', '', '', 'NOME', '', '', '', 'PATAQUINI', 'BRIANO', 'TATSUMI', '', '', '', 'FILIAÇÃO', '', '', '', 'VERIDIANO', 'MINATi', 'PIVI', '', '', '', 'SOCCHETA', 'ETTO', 'OBA', '', '', '', 'NATURALIDADE', '', '', '', 'DATA', 'DE', 'NASCIMENTO', '', '', '', 'ARABUTÃ-SC', '', '', '', '21/11/1988', '', '', '', 'voc', 'orem', 'C.NAS=433', 'LV=43', 'FL=', '364', '', '', '', 'GRAVATAL-SC', '', '', '', 'NH', '33', '', '', '', 'ASSINALURA', 'DO', 'DIBÉTOR', '', '', '', 'S', 'VIA', '', '', '', 'tios', '', '', '', 'E']
+Data de expedição do RG: []
+{'nome': ['PATAQUINI', 'BRIANO', 'TATSUMI'], 'rg': '21.927.929-9', 'cpf': [], 'data de nascimento': '21/11/1988', 'filiacao': ['VERIDIANO', 'MINATi', 'PIVI', 'SOCCHETA', 'ETTO', 'OBA'], 'data de expedição do rg': []}
+Não foi possível extrair o valor 'cpf'.
+Existem dados não extraídos.
+Documento válido.

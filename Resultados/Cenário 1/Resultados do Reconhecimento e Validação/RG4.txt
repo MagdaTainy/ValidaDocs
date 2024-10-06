@@ -1,0 +1,6 @@
+['', '', '', '', 'MESTRE', '', '', '', 'Cm', 'NAL', 'NAL', '', '', '', 'vUC', 'v', 'lESh', '', '', '', 'SERA,', '', '', '', 'REGISTAR', '', '', '', '16.281.550-5', '', '', '', 'DATA', 'CE', '', '', '', 'EXPEDIÇAÃO', '', '', '', '21/02/1976', '', '', '', 'NOME', '', '', '', 'PULGROSSI', 'GOVONI', 'MUFFATO', '', '', '', 'ala', '', '', '', 'HAMAD', 'RAIMONDI', 'GRECCO', '', '', '', 'PATACA', 'MAZUTTI', 'ARCUSCHIN', '', '', '', 'Na', 'cHaã,DAT', '', '', '', 'Gata', '', '', '', 'ANDIMENTO', '', '', '', 'ANITÁPOLIS-SC', '', '', '', '24/05/2008', '', '', '', 'Doc', 'crR.3emM', 'C.NAS=140', 'LV=7', 'FL=131', '', '', '', 'IRAÍ-RS', '', '', '', '-', '', '', '', 'C', '', '', '', '805.718.251-25', '', '', '', 'SERRINHA-RN', '', '', '', 'boca', 'a', '', '', '', 'ps', '', '', '', 'cha', '', '', '', 'DIRETOR', '', '', '', '7', 'VIA', '', '', '', 'NO7', '116', '', '', '', '28/08/83']
+Data de expedição do RG: ['21/02/1976']
+{'nome': '', 'rg': '16.281.550-5', 'cpf': ['805.718.251-25'], 'data de nascimento': '24/05/2008', 'filiacao': '', 'data de expedição do rg': ['21/02/1976']}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

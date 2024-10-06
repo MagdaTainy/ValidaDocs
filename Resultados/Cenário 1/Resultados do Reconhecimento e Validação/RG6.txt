@@ -1,0 +1,6 @@
+['', '', '', '', 'VALIDA', 'EM', 'TODO', 'O', 'TERRITÓRIO', 'NACIONAL', '', '', '', '43.166.260-5', '', '', '', 'DATA', 'DE', '', '', '', '12/07/1967', '', '', '', 'ss.', '', '', '', 'EXPEDIÇÃO', '', '', '', '“VALARINI', 'MIQUILIN', 'PAUFERRO', '=', '', '', '', '"KRUSZCZYNSKI', 'SOLANO', 'CRIVELAR', '', '', '', 'ALCEU', 'ANDREJ', 'PAVINSKI', '', '', '', 'NATURALIDADE', '', '', '', 'DATA', 'DE', 'NASCIMENTO', '', '', '', 'SILVÂNIA-GO', '', '', '', '05/01/1958', '', '', '', 'voc', 'orem', 'C.NAS=187', 'LV=288', 'FL=32', '', '', '', 'CATUÍPE-RS', '', '', '', 'CPF', '', '', '', '542.347', '.638-02', '', '', '', 'ERVIN', 'JOANA', 'LAZZAR|I', '', '', '', 'bia!', '20', '', '', '', 'ITURA', 'DO', 'DIRETOR', '', '', '', 'LEINº7', '176', 'DE', '2900/65', '', '', '', '2', 'O']
+Data de expedição do RG: ['12/07/1967']
+{'nome': '', 'rg': '43.166.260-5', 'cpf': [], 'data de nascimento': '05/01/1958', 'filiacao': '', 'data de expedição do rg': ['12/07/1967']}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

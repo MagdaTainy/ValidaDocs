@@ -1,0 +1,6 @@
+['', '', '', '', '-', '', '', '', '=)', '', '', '', 'VALIDA', 'EM', 'TODO', 'G', 'TERRITÓRIO', 'NACIONAL', '', '', '', '9EGISTAO', '', '', '', '81.101.298-0', '', '', '', 'DATA', 'DE', '', '', '', 'EXPEDIÇAO', '', '', '', '29/01/2015', '', '', '', 'GERAL', '', '', '', '1oue', 'TORDIN', 'ALFREDS', 'RANÍERI', '', '', '', 'FAÇO', '', '', '', 'YOMURA', 'RIGUETE', 'FRANCHIN', '', '', '', '+', '', '', '', 'ZANDONA', 'SPINIELLA', 'MA', '', '', '', 'DATA', 'DE', 'HASCIMENTO', '', '', '', 'NETIRALICADE', '', '', '', 'DATAS-MG', '', '', '', '02/01/2003', '+', '', '', '', 'OC', 'ORIGEM', '', '', '', 'C.NAS=225', 'LV=69', 'FL=443', '', '', '', 'FLORESTAL-MG', '', '', '', 'cor', '334,751.797-09', '', '', '', '&', '', '', '', 'E']
+Data de expedição do RG: ['29/01/2015', '02/01/2003']
+{'nome': '', 'rg': '81.101.298-0', 'cpf': [], 'data de nascimento': '02/01/2003', 'filiacao': '', 'data de expedição do rg': ['29/01/2015', '02/01/2003']}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

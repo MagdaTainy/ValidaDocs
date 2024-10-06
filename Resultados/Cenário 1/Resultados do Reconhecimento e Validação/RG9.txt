@@ -1,0 +1,6 @@
+['', '', '', '', 'VÁLIDA', 'EM', 'TODO', 'O', 'TERRITÓRIO', 'NACIONAL', '', '', '', 'DATA', 'DI', '', '', '', '23/08/1951', '', '', '', 'GERAL', '', '', '', 'BEGISTRO', '', '', '', '26.520.967-5', '', '', '', 'FEXPEDIÇÃO', '', '', '', 'NOM', '', '', '', 'GENARI', 'ROMAIN', 'LUCIO', '', '', '', 'VFILAÇÃ', '', '', '', 'SOLA', 'JOSETHI', 'YACOUB', '', '', '', 'RISTHER', 'YOUL', 'SCAVONE', '', '', '', 'NATURALIDADE', '', '', '', 'LATA', 'DE', 'NASCIMENTO', '', '', '', '01/12/1995', '', '', '', 'SERRA', 'DO', 'SALITRE-MG', '', '', '', 'C.NAS=263', 'LV=252', 'FL=366', '', '', '', 'OC', 'ETA', 'TA', '', '', '', 'BREJO-MA', '', '', '', '1', '', '', '', '848.633.640-67', '', '', '', 'BEE', 'JANSSEN', 'TRENCH', '', '', '', 'NH', '87', '', '', '', 'ASSINATUI', '', '', '', 'DO', 'DIÁETOR', '', '', '', '4', 'VIA', '', '', '', 'LEIN', '7.116DE', '29/08/83', '', '', '', '-']
+Data de expedição do RG: []
+{'nome': '', 'rg': '26.520.967-5', 'cpf': ['848.633.640-67'], 'data de nascimento': '01/12/1995', 'filiacao': '', 'data de expedição do rg': []}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.

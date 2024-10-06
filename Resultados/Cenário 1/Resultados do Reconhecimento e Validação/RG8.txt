@@ -1,0 +1,6 @@
+['', '', '', '', 'ansendto', '1', 'Imatl', 'a', '”', '', '', '', 'eua', '', '', '', '"e', '', '', '', 'VALIDA!', 'EM', 'TODO', 'TF!', '', '', '', 'ON', '', '', '', 'P', '', '', '', 'FEGITA', '98.690.642-9', '', '', '', '09/09/1966', '', '', '', 'STE', 'BENETTON', 'SOJA', '', '', '', '”-', '', '', '', 'Cada', 'OS', '', '', '', 'MARCATTI', 'ROSCHE', 'VIV', '', '', '', '/', '', '', '', 'DADE', '', '', '', 'DATA', 'DE', 'NASCIMENTO', '', '', '', 'BATALHA-AL', '', '', '', '20/12/1969', '', '', '', 'DO', '', '', '', 'ei.', 'C.NAS=461', 'LV=282', 'FL=33', '', '', '', 'IAPU-MG', '', '', '', '(PF', '', '', '', '561.299.197-51', '', '', '', '66491/2600', '', '', '', 'ESTRELA', 'MS', '', '', '', 'MATSUYAMA', 'ODININO', 'ZOCA', '', '', '', '«', '', '', '', 'NH15', '', '', '', 'ASSINATURA', 'DO', 'DIRETOR', '', '', '', '1', 'VIA', '', '', '', '"caca', '', '', '', '11', 'N97', '116', 'DF', '29/08/83']
+Data de expedição do RG: ['09/09/1966']
+{'nome': '', 'rg': '98.690.642-9', 'cpf': ['561.299.197-51'], 'data de nascimento': '20/12/1969', 'filiacao': '', 'data de expedição do rg': ['09/09/1966']}
+Não foi possível extrair o valor 'nome'.
+Existem dados não extraídos.
+Documento válido.
